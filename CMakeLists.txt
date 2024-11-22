@@ -4,4 +4,5 @@ project(prog3_2024_2_heap)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(prog3_2024_2_heap main.cpp
-        heap.h)
+        heap.h
+        task_manager.h)
